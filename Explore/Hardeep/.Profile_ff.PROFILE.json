@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "532WoG8Jy5SgPYPBZIcxUC",
+    "name" : "Profile_ff",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5a773925-465e-4d28-9d87-d588bbcc128d"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-01-02T21:39:46.284Z",
+  "objectRefs" : [ {
+    "id" : "2waPJK9xxMPlSzS9yqHNcX",
+    "name" : "hardeep_ff",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BXGL0B000000000012"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
