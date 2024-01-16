@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "6gS4y7E0VAUknpWgn29q8j",
+    "name" : "Profile_mapplet_test",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "517a6829-fe72-4445-b52d-d25dc31c7196"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-01-16T22:09:25.589Z",
+  "objectRefs" : [ {
+    "id" : "all82FKac9LjRzHR9ORVUi",
+    "name" : "Mapplet_test",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BXGL40000000000008"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Hardeep"
+  } ]
+}
