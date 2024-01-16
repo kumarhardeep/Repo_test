@@ -20,7 +20,7 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-01-04T19:52:57.926Z",
+  "updateTime" : "2024-01-16T21:49:31.440Z",
   "objectRefs" : [ {
     "id" : "2waPJK9xxMPlSzS9yqHNcX",
     "name" : "hardeep_ff",
@@ -41,5 +41,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "4tApjSEorwSidzrKr1t5Aq",
+    "name" : "mplt_input_n_preenchido_001",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BXGL40000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CDQ Rules/Mapplets"
   } ]
 }
